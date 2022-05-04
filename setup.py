@@ -8,6 +8,7 @@ setuptools.setup(
   author='sua'
   author_email='cookie3123@naver.com',
   url='https://github.com/Telettubi/testcalcul/',
+  download_url="https://github.com/Telettubi/testcalcul/archive/refs/tags/0.0.1.zip",
   install_requires=['pytest'],
   long_description='oss my calculator test python module',
   long_description_content_type='test/markdown',
